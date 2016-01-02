@@ -331,8 +331,8 @@ public class Jeu {
     @Override
     public String toString() {
         String res = "";
-        for (int i = 0; i < H; i++) {
-            for (int j = 0; j < L; j++) {
+        for (int i = 0; i < height i++) {
+            for (int j = 0; j < width; j++) {
                 res += "|" + grille[i][j];
             }
             res += "|\n";

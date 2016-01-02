@@ -4,7 +4,7 @@
 
 Abstract
 ============
-This is an old school project, from earlt 2014. The goal was to program an AI capable of predicting the winner of a two-player perfect information game with finite horizon, from any starting board, as well as to implement an interactive automated player. In this case, it is applied to the game Connect-4, as some game knowledge is necessary (e.g. to evaluate an heuristic on on state nodes, or to determine if there is a winner). 
+This is an old school project, from early 2014. The goal was to program an AI capable of predicting the winner of a two-player perfect information game with finite horizon, from any starting board, as well as to implement an interactive automated player. In this case, it is applied to the game Connect-4, as some game knowledge is necessary (e.g. to evaluate an heuristic on on state nodes, or to determine if there is a winner). 
 Most of the class and variable names are in french.
 
 
